@@ -71,6 +71,12 @@ _____________________________________
 
 ![3D Model Store](https://user-images.githubusercontent.com/85125898/147094084-055343fb-1b06-4298-abf1-d0bd921deecf.jpg)
 
+_____________________________________
+➤ 𝐗𝐏𝐚𝐲 𝐋𝐢𝐟𝐞 - 𝐃𝐞𝐬𝐢𝐠𝐧
+
+![xpay life](https://user-images.githubusercontent.com/85125898/149285625-1878f8f2-a9f7-4fab-8e8a-eafc863fe04f.jpg)
+
+_____________________________________
 ➤ 𝟑𝐃 𝐒𝐭𝐨𝐫𝐞 𝐋𝐨𝐠𝐢𝐧 𝐏𝐚𝐠𝐞
 
 ![login page](https://user-images.githubusercontent.com/85125898/147095005-c907f59d-ccc3-4396-9a48-c67e38e5ea2a.png)
