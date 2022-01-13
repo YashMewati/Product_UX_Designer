@@ -5,9 +5,12 @@
 
 Dedicated and Enthusiastic Towards My Work.
 ________________________________________
-➤ 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ::: Video Editing Skills 
+➤ 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ::: 𝗩𝗶𝗱𝗲𝗼 𝗘𝗱𝗶𝘁𝗶𝗻𝗴 𝗦𝗸𝗶𝗹𝗹𝘀
 
 https://www.youtube.com/c/URBANREGOYashMewati/videos
+
+𝐆𝐚𝐦𝐢𝐧𝐠 𝐂𝐡𝐚𝐧𝐧𝐞𝐥
+https://www.youtube.com/channel/UCASL-JLguyq6DuRF2mtz3SQ
 
 ________________________________________
 ➤ 𝐁𝐞𝐡𝐚𝐧𝐜𝐞
@@ -88,9 +91,29 @@ _____________________________________
 ![Lenskart Wireframing](https://user-images.githubusercontent.com/85125898/149286242-88ea7fdf-5ae1-4c48-8be4-836140b631ce.jpg)
 
 _____________________________________
+➤ 𝐑𝐞𝐜𝐫𝐞𝐚𝐭𝐞 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 𝐋𝐨𝐠𝐢𝐧 𝐏𝐚𝐠𝐞 - 𝐇𝐓𝐌𝐋 , 𝐂𝐒𝐒
+
+file:///D:/HTML,CSS,JavaScriptWEB%20Development/instagram%20login%20page/html%20insta%20login%20page.html
+
+_____________________________________
 ➤ 𝟑𝐃 𝐒𝐭𝐨𝐫𝐞 𝐋𝐨𝐠𝐢𝐧 𝐏𝐚𝐠𝐞
 
 ![login page](https://user-images.githubusercontent.com/85125898/147095005-c907f59d-ccc3-4396-9a48-c67e38e5ea2a.png)
+
+_____________________________________
+➤ 𝐁𝐫𝐨𝐜𝐡𝐮𝐫𝐞 𝐃𝐞𝐬𝐢𝐠𝐧
+
+![Brochure Design](https://user-images.githubusercontent.com/85125898/149287075-42731202-421e-412f-89c9-3a776b4b4a60.jpg)
+
+_____________________________________
+➤ 𝐁𝐮𝐥𝐛 𝐂𝐡𝐞𝐜𝐤𝐁𝐨𝐱
+
+https://user-images.githubusercontent.com/85125898/149288193-4ed85e17-a4a3-413d-9ad3-b64993a89883.mp4
+
+_____________________________________
+➤ 𝐕𝐞𝐜𝐭𝐨𝐫 𝐀𝐫𝐭
+
+![Vector Art Urban Rego](https://user-images.githubusercontent.com/85125898/149287195-757aeea9-18c8-4584-9e95-1dc1e6672c7c.png)
 
 _____________________________________
 ➤ 𝐂𝐲𝐜𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐖𝐞𝐛𝐃𝐞𝐬𝐢𝐠𝐧
@@ -124,8 +147,19 @@ _____________________________________
 
 ![ambassador car side view](https://user-images.githubusercontent.com/85125898/147095437-be2495a4-f5c1-4905-ab49-80f130c280c8.jpg)
 
+![mustang ](https://user-images.githubusercontent.com/85125898/149287407-f2cac3ed-1a65-4cbd-8f43-dc1eae04776d.png)
+
 ![Blender_  C__Users_pc_Documents_ambassdor design blend  6_4_2021 9_46_30 PM (2)](https://user-images.githubusercontent.com/85125898/147095475-a1e34a59-ead4-4f9d-be4c-71b65cf31516.png)
 
+_____________________________________
+➤ 𝐖𝐨𝐫𝐤𝐛𝐞𝐧𝐜𝐡
 
+![modern isometric bedroom workbench](https://user-images.githubusercontent.com/85125898/149287549-5b7ff790-d0eb-4ae5-86e3-4a23fe0f1c78.jpg)
+
+![Blender_  C__Users_pc_Documents_isoletric room blend  5_29_2021 3_40_07 PM](https://user-images.githubusercontent.com/85125898/149287602-1affdb12-e80a-4467-bef1-134a24cc7e99.png)
+
+![Blender_  C__Users_pc_Documents_ambassdor design blend  6_4_2021 9_47_55 PM](https://user-images.githubusercontent.com/85125898/149287650-073b8244-b5fb-4d50-b2fc-03b2eba0885f.png)
+
+![Blender_  C__Users_pc_Documents_ambassdor design blend  6_4_2021 9_47_11 PM](https://user-images.githubusercontent.com/85125898/149287670-cd5317aa-1efe-43c8-b6eb-fb7c1f2f9779.png)
 
 
