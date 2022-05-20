@@ -3,6 +3,9 @@
 
  Mechanical Engineer (Fresher) and 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 𝐔𝐗/𝐔𝐈 𝐃𝐞𝐬𝐢𝐠𝐧𝐞𝐫 having Deep understanding of Product Designing , Graphic Designing ,Video Editing || Data Science and Machine Learning Enthusiastic .
 
+➤ NFT Marketplace My UX/UI Design 
+![NFT fn (1)](https://user-images.githubusercontent.com/85125898/169544852-9f7df827-bac8-4ac7-aa0f-ca6c34a31368.jpg)
+
 Dedicated and Enthusiastic Towards My Work.
 ________________________________________
 ➤ 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ::: 𝗩𝗶𝗱𝗲𝗼 𝗘𝗱𝗶𝘁𝗶𝗻𝗴 𝗦𝗸𝗶𝗹𝗹𝘀
