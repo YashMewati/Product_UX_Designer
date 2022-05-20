@@ -3,6 +3,12 @@
 
  Mechanical Engineer (Fresher) and 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 𝐔𝐗/𝐔𝐈 𝐃𝐞𝐬𝐢𝐠𝐧𝐞𝐫 having Deep understanding of Product Designing , Graphic Designing ,Video Editing || Data Science and Machine Learning Enthusiastic .
 
+## Current Projects - 
+1) BTAI - BETTER TEETH AI an Australian Company ( PRODUCT DESIGN FROM SCRATCH)
+2) Kaya clinic - Redesign IOS Application 
+3) School Guard App Flow From Scratch 
+4) NFT Market UI Design 
+
 ➤ NFT Marketplace My UX/UI Design 
 ![NFT fn (1)](https://user-images.githubusercontent.com/85125898/169544852-9f7df827-bac8-4ac7-aa0f-ca6c34a31368.jpg)
 
