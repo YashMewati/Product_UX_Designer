@@ -59,6 +59,14 @@ SGPA - 9.0
 _________________________________________
 ➤ 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 :::
 
+➤ KICKCASH UX/UI DESIGN Process and Flow
+
+![cover1](https://user-images.githubusercontent.com/85125898/172099880-98ae6e3a-7e9d-49be-b859-ea775d3b2945.jpg)
+
+
+
+
+
 • Xpay Life - Web Page Design 
 
 • Postfolio - Android Application For Posting Videos , Stories , Post Images and 
