@@ -92,6 +92,11 @@ https://www.coursera.org/account/accomplishments/verify/62E2V59ZN686
 ![Google UX-UI Certfifcate](https://user-images.githubusercontent.com/85125898/147093369-2a4eb73b-33cf-4c49-8f35-c1a443a845d6.jpg)
 
 _____________________________________
+➤ 𝐌𝐚𝐲𝐚 𝐂𝐥𝐢𝐧𝐢𝐜 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐚𝐥 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐃𝐞𝐬𝐢𝐠𝐧
+
+![maya clinic](https://user-images.githubusercontent.com/85125898/180480142-bb5b5616-4625-4cdc-963e-01ffd6979202.jpg)
+
+_____________________________________
 ➤ 𝟑𝐃 𝐒𝐭𝐨𝐫𝐞 𝐀𝐏𝐏 - 𝐔𝐈 𝐃𝐞𝐬𝐢𝐠𝐧
 
 ![3D Model Store](https://user-images.githubusercontent.com/85125898/147094084-055343fb-1b06-4298-abf1-d0bd921deecf.jpg)
