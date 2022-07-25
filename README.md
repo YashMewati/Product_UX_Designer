@@ -1,4 +1,4 @@
-# UX-UI-Designer
+# Product (UX-UI)-Designer
 
 
  Mechanical Engineer (Fresher) and 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 𝐔𝐗/𝐔𝐈 𝐃𝐞𝐬𝐢𝐠𝐧𝐞𝐫 having Deep understanding of Product Designing , Graphic Designing ,Video Editing || Data Science and Machine Learning Enthusiastic .
