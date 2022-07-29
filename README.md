@@ -72,16 +72,16 @@ The Flow of design is very huge this is a small project including Tablet,Mobile,
 ![flowchart preventus](https://user-images.githubusercontent.com/85125898/181768566-c52ced28-f2c2-4ad5-8a80-e8ddafd31d81.jpg)
 
 
-• Xpay Life - Web Page Design 
+➤ • Xpay Life - Web Page Design 
 
-• Postfolio - Android Application For Posting Videos , Stories , Post Images and 
+➤ • Postfolio - Android Application For Posting Videos , Stories , Post Images and 
  Essay .
  
-• 3D Store - Where You Can Easily Buy 3D Models
+➤ • 3D Store - Where You Can Easily Buy 3D Models
 
-• College Project - 360 Degree Rotation Wheel Vehicle .
+➤ • College Project - 360 Degree Rotation Wheel Vehicle .
 
-• EDA - COVID 19 Exploratory Data Analysis .
+➤ • EDA - COVID 19 Exploratory Data Analysis .
 
 More in Portfolio
 _____________________________________
