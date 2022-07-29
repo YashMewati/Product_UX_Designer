@@ -29,7 +29,10 @@ https://www.behance.net/shmwt
 ________________________________________
 ➤ 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦
 
-https://www.instagram.com/official_yash_mewati/?hl=en
+• 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 𝐔𝐗/𝐔𝐈 𝐏𝐚𝐠𝐞
+https://www.instagram.com/yash_uxuidesigner/
+
+• https://www.instagram.com/official_yash_mewati/?hl=en
 
 ________________________________________
 ➤ 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐚𝐧𝐝 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠  - 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
