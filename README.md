@@ -3,16 +3,27 @@
 
  Mechanical Engineer and 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 𝐔𝐗/𝐔𝐈 𝐃𝐞𝐬𝐢𝐠𝐧𝐞𝐫 having Deep understanding of Product Designing , Graphic Designing ,Video Editing || Data Science and Machine Learning Enthusiastic AI Product Designer
 
-## Current Projects - 
+## Company Current Projects - 
 1) BTAI - BETTER TEETH AI an Australian Company ( PRODUCT DESIGN FROM SCRATCH)
 2) Kaya clinic - Redesign IOS Application 
 3) School Guard App Flow From Scratch 
 4) NFT Market UI Design 
+5) AICA - AI Crowd Analysis 
+
 
 ➤ NFT Marketplace My UX/UI Design 
 ![NFT fn (1)](https://user-images.githubusercontent.com/85125898/169544852-9f7df827-bac8-4ac7-aa0f-ca6c34a31368.jpg)
 
 Dedicated and Enthusiastic Towards My Work.
+
+
+➤ AICA - AI CROWD ANALYSIS (DATAVIV TECH COMPANY UX DESIGN PROJECT )
+![AICA Project github11](https://user-images.githubusercontent.com/85125898/183344462-c6b6e1c5-6d33-4be5-bfb3-5889d6b8e29e.jpg)
+
+
+
+
+
 ________________________________________
 ➤ 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ::: 𝗩𝗶𝗱𝗲𝗼 𝗘𝗱𝗶𝘁𝗶𝗻𝗴 𝗦𝗸𝗶𝗹𝗹𝘀
 
