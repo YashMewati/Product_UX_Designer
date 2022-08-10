@@ -1,4 +1,4 @@
-# Product (UX-UI)-Designer
+# Product Designer (UX/UI)
 
 
  Mechanical Engineer and 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 𝐔𝐗/𝐔𝐈 𝐃𝐞𝐬𝐢𝐠𝐧𝐞𝐫 having Deep understanding of Product Designing , Graphic Designing ,Video Editing || Data Science and Machine Learning Enthusiastic AI Product Designer
