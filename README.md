@@ -7,10 +7,9 @@
 1) BTAI - BETTER TEETH AI an Australian Company ( PRODUCT DESIGN FROM SCRATCH)
 2) Kaya clinic - Redesign IOS Application 
 3) School Guard App Flow From Scratch 
-4) NFT Market UI Design 
-5) AICA - AI Crowd Analysis 
+4) AICA - AI Crowd Analysis 
 
-
+## My Design and Concept for NFT Marketplace
 ➤ NFT Marketplace My UX/UI Design 
 ![NFT fn (1)](https://user-images.githubusercontent.com/85125898/169544852-9f7df827-bac8-4ac7-aa0f-ca6c34a31368.jpg)
 
