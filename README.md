@@ -14,13 +14,36 @@
 ![NFT fn (1)](https://user-images.githubusercontent.com/85125898/169544852-9f7df827-bac8-4ac7-aa0f-ca6c34a31368.jpg)
 
 Dedicated and Enthusiastic Towards My Work.
+________________________________________
+
+[//]: <> (➤ AICA - AI CROWD ANALYSIS (DATAVIV TECH COMPANY UX DESIGN PROJECT )
+![AICA Project github11](https://user-images.githubusercontent.com/85125898/183344462-c6b6e1c5-6d33-4be5-bfb3-5889d6b8e29e.jpg))
 
 
-➤ AICA - AI CROWD ANALYSIS (DATAVIV TECH COMPANY UX DESIGN PROJECT )
-![AICA Project github11](https://user-images.githubusercontent.com/85125898/183344462-c6b6e1c5-6d33-4be5-bfb3-5889d6b8e29e.jpg)
+________________________________________
+➤ STOCKBEE - STOCK TRADING PLATFORM 
+Stockbee - Stock Trading Platform Product Design and concept Yash Mewati
+
+🚀 I Started from the thought for this product ,
+1st I thought about the name and logo of the product , I know about the concept that it would be the trading platform app ,
+I design the logo and name as "STOCKBEE " which is sound nice and the story behind is
+✍️ A Honey bees is collecting the honey for to store up as food to last them through the winter months
+so as a user perspective user investing their money for wealth so that point
+I named this as "STOCKBEE" .
+
+👾This is an end to end Application Design
+For to buy the product design DM or Email me
+🚀 chintumewati8@gmail.com
+
+Follow for more UX Design Concept and Product
+©️ Copyright of the design
+Yash Mewati
 
 
-
+![Stockbee](https://user-images.githubusercontent.com/85125898/184839323-eb038081-dee4-490d-a782-de565893414c.png)
+![Stockbee full](https://user-images.githubusercontent.com/85125898/184839120-0b036974-1399-4c62-8b57-961d853e6377.png)
+![Flying iPhone 12 Mockup Left View](https://user-images.githubusercontent.com/85125898/184839258-ec1c8a9d-20f7-4c57-8c4f-215411099e61.png)
+<img width="524" alt="iPhone 13 Mockup" src="https://user-images.githubusercontent.com/85125898/184839277-02ed9ef0-8b32-4160-b88b-5f8029827642.png">
 
 
 ________________________________________
