@@ -15,9 +15,8 @@
 
 Dedicated and Enthusiastic Towards My Work.
 ________________________________________
-
-[//]: <> (➤ AICA - AI CROWD ANALYSIS (DATAVIV TECH COMPANY UX DESIGN PROJECT )
-![AICA Project github11](https://user-images.githubusercontent.com/85125898/183344462-c6b6e1c5-6d33-4be5-bfb3-5889d6b8e29e.jpg))
+➤ AICA - AI CROWD ANALYSIS (DATAVIV TECH COMPANY UX DESIGN PROJECT )
+![AICA Project github11](https://user-images.githubusercontent.com/85125898/183344462-c6b6e1c5-6d33-4be5-bfb3-5889d6b8e29e.jpg)
 
 
 ________________________________________
