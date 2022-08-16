@@ -20,7 +20,8 @@ ________________________________________
 
 
 ________________________________________
-➤ STOCKBEE - STOCK TRADING PLATFORM 
+## ➤ STOCKBEE - STOCK TRADING PLATFORM 
+
 Stockbee - Stock Trading Platform Product Design and concept Yash Mewati
 
 🚀 I Started from the thought for this product ,
