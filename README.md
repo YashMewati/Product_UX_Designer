@@ -95,6 +95,10 @@ SGPA - 9.0
 _________________________________________
 ➤ 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 :::
 
+➤ ## NFT MARKET BUY AND SELL QUICK PROCESS 
+![NFTYFULL](https://user-images.githubusercontent.com/85125898/187595207-5177400f-4563-46cf-bc1f-5ff4a0a768f3.png)
+
+
 ➤ KICKCASH UX/UI DESIGN Process and Flow
 
 ![cover1](https://user-images.githubusercontent.com/85125898/172099880-98ae6e3a-7e9d-49be-b859-ea775d3b2945.jpg)
