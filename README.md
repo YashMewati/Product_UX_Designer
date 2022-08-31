@@ -99,12 +99,12 @@ _________________________________________
 ![NFTYFULL](https://user-images.githubusercontent.com/85125898/187595207-5177400f-4563-46cf-bc1f-5ff4a0a768f3.png)
 
 
-➤ KICKCASH UX/UI DESIGN Process and Flow
+## ➤ KICKCASH UX/UI DESIGN Process and Flow
 
 ![cover1](https://user-images.githubusercontent.com/85125898/172099880-98ae6e3a-7e9d-49be-b859-ea775d3b2945.jpg)
 
 
-➤ 𝐅𝐥𝐨𝐰 𝐜𝐡𝐚𝐫𝐭 𝐨𝐟 𝐦𝐲 𝐫𝐞𝐜𝐞𝐧𝐭 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 - 𝐏𝐫𝐞𝐯𝐞𝐧𝐭𝐮𝐬 ( Dental Care Company using AI Technology in Dental Medical Field )
+## ➤ 𝐅𝐥𝐨𝐰 𝐜𝐡𝐚𝐫𝐭 𝐨𝐟 𝐦𝐲 𝐫𝐞𝐜𝐞𝐧𝐭 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 - 𝐏𝐫𝐞𝐯𝐞𝐧𝐭𝐮𝐬 ( Dental Care Company using AI Technology in Dental Medical Field )
 
 This is blur Because of Project Policy 
 The Flow of design is very huge this is a small project including Tablet,Mobile,Website so I created different flow chart for every single Device . 
@@ -112,16 +112,16 @@ The Flow of design is very huge this is a small project including Tablet,Mobile,
 ![flowchart preventus](https://user-images.githubusercontent.com/85125898/181768566-c52ced28-f2c2-4ad5-8a80-e8ddafd31d81.jpg)
 
 
-➤ • Xpay Life - Web Page Design 
+## ➤ • Xpay Life - Web Page Design 
 
-➤ • Postfolio - Android Application For Posting Videos , Stories , Post Images and 
+## ➤ • Postfolio - Android Application For Posting Videos , Stories , Post Images and 
  Essay .
  
-➤ • 3D Store - Where You Can Easily Buy 3D Models
+## ➤ • 3D Store - Where You Can Easily Buy 3D Models
 
-➤ • College Project - 360 Degree Rotation Wheel Vehicle .
+## ➤ • College Project - 360 Degree Rotation Wheel Vehicle .
 
-➤ • EDA - COVID 19 Exploratory Data Analysis .
+## ➤ • EDA - COVID 19 Exploratory Data Analysis .
 
 More in Portfolio
 _____________________________________
