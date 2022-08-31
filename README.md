@@ -96,7 +96,11 @@ _________________________________________
 ➤ 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 :::
 
 ## ➤  NFT MARKET BUY AND SELL QUICK PROCESS 
+![NFTYMpng](https://user-images.githubusercontent.com/85125898/187595729-27b82d60-fa7c-4037-9f7a-c1b6fc3007de.png)
+
 ![NFTYFULL](https://user-images.githubusercontent.com/85125898/187595207-5177400f-4563-46cf-bc1f-5ff4a0a768f3.png)
+
+
 
 
 ## ➤ KICKCASH UX/UI DESIGN Process and Flow
