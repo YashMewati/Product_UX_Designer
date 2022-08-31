@@ -95,7 +95,7 @@ SGPA - 9.0
 _________________________________________
 ➤ 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 :::
 
-➤ ## NFT MARKET BUY AND SELL QUICK PROCESS 
+## ➤  NFT MARKET BUY AND SELL QUICK PROCESS 
 ![NFTYFULL](https://user-images.githubusercontent.com/85125898/187595207-5177400f-4563-46cf-bc1f-5ff4a0a768f3.png)
 
 
