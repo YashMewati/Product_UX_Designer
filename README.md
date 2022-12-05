@@ -100,7 +100,8 @@ _________________________________________
 
 ![NFTYFULL](https://user-images.githubusercontent.com/85125898/187595207-5177400f-4563-46cf-bc1f-5ff4a0a768f3.png)
 
-
+## ➤ UX Information Architect of PayRup Mobile Home Page
+![PayRup UX IA](https://user-images.githubusercontent.com/85125898/205671879-9f687c90-6b95-404b-be37-f8b0f14eaf3d.jpg)
 
 
 ## ➤ KICKCASH UX/UI DESIGN Process and Flow
