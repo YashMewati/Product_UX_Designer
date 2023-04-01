@@ -20,7 +20,8 @@ https://www.youtube.com/@sporket/videos
 
 ## SPORKET ADS IMAGE FOR GOOGLE
 
-![Frame 2](https://user-images.githubusercontent.com/85125898/229275043-8db35dd3-8880-465f-b247-e8032fe5db5a.png)
+![Frame 2](https://user-images.githubusercontent.com/85125898/229275084-5ed0ae34-85a1-4174-84d6-32cbe11dfac2.png)
+
 
 
 
@@ -29,6 +30,7 @@ https://www.youtube.com/@sporket/videos
 
 ![Group 48095573](https://user-images.githubusercontent.com/85125898/229274339-753583d5-09bb-4dc6-9673-5ce36835a878.png)
 
-![Uploading Frame 1.png…]()
+![Frame 1](https://user-images.githubusercontent.com/85125898/229275089-f307f6ba-6eb1-44ec-874e-136f29feab25.png)
+
 
 
